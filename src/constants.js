@@ -1,1 +1,3 @@
-export const DB_NAME = "JASH"
+// export const DB_NAME = "jash"
+
+export const DB_NAME = "videotube"
